@@ -47,4 +47,8 @@ The amount of money requested for a project or goal for the campaign is not the 
 
 **What are some other possible tables and/or graphs that we could create?**
 
+<<<<<<< HEAD
 A Pledged vs Goal scatter plot graph with a best fit line could be created to see how likely campaigns received 100% of their requested funds or exceeded their goal. You could also graph the data over years instead of months and see if donors are pledging more funds this year vs previous years. 
+=======
+A Pledged vs Goal scatter plot graph with a best fit line could be created to see how likely campaigns received 100% of their requested funds or exceeded their goal. You could also graph the data over years instead of months and see if donors are pledging more funds this year vs previous years. 
+>>>>>>> 15047616fe9d1cf4a62698365c920f5a5afa631c
