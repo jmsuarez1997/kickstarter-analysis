@@ -31,20 +31,20 @@ Note how the beginning of the range uses the >= sign to include that value in th
 
 ## Results
 
-What are two conclusions you can draw about the Outcomes based on Launch Date?
+**What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
 The most successful time to launch a campaign is in the month of May. The least successful time to launch a campaign is in the month of December. The highest number of failed campaigns stays consistent from May to August at around 40-50 failed theater campaigns per month. 
 
-What can you conclude about the Outcomes based on Goals?
+**What can you conclude about the Outcomes based on Goals?**
 
 Most successful campaigns for plays had goals set for under $5000. As the goal amount increases, the percentage of successful campaigns declines, and the percentage of failed campaigns increases. So the lower, your campaign goal is the higher chance you will have a successful campaign. Campaign success increases to 67% between the funding range of $35,000 and $45,000, but this is most likely due to the lack of data for this range. 
 
-What are some limitations of this dataset?
+**What are some limitations of this dataset?**
 
 We narrowed the data down to just plays and theater categories on the Outcomes_vs_Goals & Theater Outcomes Based on Launch Date graphs, but there are only 1,047 and 1,369 data points respectively. This is a relatively low number. For example, in the second analysis when the successful campaigns increased to 67 % for the funding ranges of $35,000 and $45,000 there were only 9 entries total for those data ranges. That's not enough data to make a fair analysis.
 
 The amount of money requested for a project or goal for the campaign is not the only factor that should consider for having a successful and failed campaign. Other factors should be considered like what type of team or cast is on the project, how good the script is, etc., but we don't have this information in our data set. 
 
-What are some other possible tables and/or graphs that we could create?
+**What are some other possible tables and/or graphs that we could create?**
 
 A Pledged vs Goal scatter plot graph with a best fit line could be created to see how likely campaigns received 100% of their requested funds or exceeded their goal. You could also graph the data over years instead of months and see if donors are pledging more funds this year vs previous years. 
