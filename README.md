@@ -41,14 +41,9 @@ Most successful campaigns for plays had goals set for under $5000. As the goal a
 
 **What are some limitations of this dataset?**
 
-We narrowed the data down to just plays and theater categories on the Outcomes_vs_Goals & Theater Outcomes Based on Launch Date graphs, but there are only 1,047 and 1,369 data points respectively. This is a relatively low number. For example, in the second analysis when the successful campaigns increased to 67 % for the funding ranges of $35,000 and $45,000 there were only 9 entries total for those data ranges. That's not enough data to make a fair analysis.
+We narrowed the data down to just plays and theater categories on the *Outcomes_vs_Goals* & *Theater Outcomes Based on Launch Date* graphs, but there are only 1,047 and 1,369 data points respectively. This is a relatively low number. For example, in the second analysis when the successful campaigns increased to 67 % for the funding ranges of $35,000 and $45,000 there were only 9 entries total for those data ranges. That's not enough data to make a fair analysis.
 
-The amount of money requested for a project or goal for the campaign is not the only factor that should consider for having a successful and failed campaign. Other factors should be considered like what type of team or cast is on the project, how good the script is, etc., but we don't have this information in our data set. 
+The amount of money requested for a project or goal for the campaign is not the only factor that should consider for having a successful and failed campaign. Other factors should be considered like what type of team or cast is on the project, how good the script is, etc., but we don't have this information in our data set and its hard to quaify qualitative data.
 
 **What are some other possible tables and/or graphs that we could create?**
-
-<<<<<<< HEAD
-A Pledged vs Goal scatter plot graph with a best fit line could be created to see how likely campaigns received 100% of their requested funds or exceeded their goal. You could also graph the data over years instead of months and see if donors are pledging more funds this year vs previous years. 
-=======
-A Pledged vs Goal scatter plot graph with a best fit line could be created to see how likely campaigns received 100% of their requested funds or exceeded their goal. You could also graph the data over years instead of months and see if donors are pledging more funds this year vs previous years. 
->>>>>>> 15047616fe9d1cf4a62698365c920f5a5afa631c
+A Pledged vs Goal scatter plot graph with a best fit line could be created to see how likely campaigns received 100% of their requested funds or exceeded their goal. You could also graph the data over years instead of months and see if donors are pledging more funds this year vs previous years.
